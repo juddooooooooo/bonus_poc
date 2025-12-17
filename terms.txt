@@ -1,0 +1,20 @@
+[100_MATCH_OFFER]
+Sports Welcome Offer: Your first deposit has been matched 100% up to R1,000. To unlock these funds for withdrawal, you must wager the bonus amount 3 times (3x) on sports bets with odds of 3.0 or higher. Bets placed on Casino, Virtuals, or Betgames do not count toward this wagering requirement.
+
+[R25_SIGN_UP_BET]
+R25 Sign Up Bet: You have qualified for the R25 Sign Up Bet. This balance is for wagering purposes only and cannot be withdrawn. To activate this, your FICA documents must be verified. Winnings generated from this free bet can be withdrawn once the initial R25 stake is deducted.
+
+[FICA_DOCS_REQUIRED]
+Account Verification Locked: In accordance with South African FICA regulations, we cannot release your bonus until your identity is verified. Please upload a clear copy of your Green ID Book, Smart ID Card, or Driver's License. Email documents to FICA@Operator A.co.za or use the uploader in "My Account". Verification takes 24-48 hours.
+
+[MIN_DEPOSIT_FAIL]
+Ineligible - Low Deposit: Your last deposit was below the minimum threshold for this promotion. The 100% Match Bonus requires a minimum initial deposit of R10.00. Please top up your account to trigger the offer.
+
+[DUPLICATE_ACCOUNT]
+Promotion Void: Our system has detected that you or a member of your household has already claimed a Welcome Bonus. Per our General Terms (Clause 2.1), only one bonus is allowed per IP address, household, or shared device.
+
+[CASINO_RELOAD]
+Casino Games Bonus: You have received a reload match. This bonus is subject to 30x wagering on Slots or Table Games. Different games contribute differently to wagering (Slots: 100%, SicBo: 50%, Baccarat: 10%, Roulette: 2%, Blackjack: 2%).
+
+[DEFAULT]
+General Terms: Standard Operator A South Africa terms and conditions apply. Please visit the "Terms and Conditions" footer on the main site for full details regarding withdrawals, wagering, and promotional validity.
