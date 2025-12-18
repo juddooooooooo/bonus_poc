@@ -63,8 +63,8 @@ class BonusChecker:
             return {
                 "status": "vip_redirect",
                 "message": f"Welcome back, VIP!",
-                "details": f"Your account is managed by **{host_name}**. Please contact them directly via WhatsApp or Email for your exclusive custom offers.",
-                "action_url": "mailto:vip@betway.co.za" # Example link
+                "details": f"Your account is managed by **{host_name}**. Please contact them directly for your exclusive custom offers.",
+                "action_url": f"mailto:{host_name}@OperatorA.com" # Example link
             }
         
         # --- STANDARD LOGIC (For non-hosted players) ---
@@ -75,13 +75,11 @@ class BonusChecker:
             return {
                 "status": "success",
                 "message": f"Bonus Available: {user_data['bonus_value']} {user_data['currency']}",
-                "details": terms_text,
-                "action_url": "https://www.betway.co.za/lobby" # Redirect to Game Lobby
+                "details": terms_text
             }
         else:
             return {
                 "status": "failed",
                 "message": "Bonus Not Available",
-                "details": terms_text,
-                "action_url": "https://www.betway.co.za/lobby" # Redirect to Game Lobby
+                "details": terms_text
             }
