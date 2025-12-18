@@ -1,7 +1,8 @@
-account_id,is_eligible,bonus_value,currency,reason_code
-1001,True,1000,ZAR,100_MATCH_OFFER
-1002,False,0,ZAR,FICA_DOCS_REQUIRED
-1003,True,25,ZAR,R25_SIGN_UP_BET
-1004,False,0,ZAR,MIN_DEPOSIT_FAIL
-1005,False,0,ZAR,DUPLICATE_ACCOUNT
-1006,True,500,ZAR,CASINO_RELOAD
+account_id,is_eligible,bonus_value,currency,reason_code,is_hosted,host_name
+1001,True,1000,ZAR,100_MATCH_OFFER,False,None
+1002,False,0,ZAR,FICA_DOCS_REQUIRED,False,None
+1003,True,25,ZAR,R25_SIGN_UP_BET,False,None
+1004,False,0,ZAR,MIN_DEPOSIT_FAIL,False,None
+1005,False,0,ZAR,DUPLICATE_ACCOUNT,False,None
+1006,True,500,ZAR,CASINO_RELOAD,True,Sarah
+1007,True,5000,ZAR,VIP_CASHBACK,True,Michael
