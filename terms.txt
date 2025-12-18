@@ -5,7 +5,7 @@ Sports Welcome Offer: Your first deposit has been matched 100% up to R1,000. To 
 R25 Sign Up Bet: You have qualified for the R25 Sign Up Bet. This balance is for wagering purposes only and cannot be withdrawn. To activate this, your FICA documents must be verified. Winnings generated from this free bet can be withdrawn once the initial R25 stake is deducted.
 
 [FICA_DOCS_REQUIRED]
-Account Verification Locked: In accordance with South African FICA regulations, we cannot release your bonus until your identity is verified. Please upload a clear copy of your Green ID Book, Smart ID Card, or Driver's License. Email documents to FICA@Operator A.co.za or use the uploader in "My Account". Verification takes 24-48 hours.
+Account Verification Locked: In accordance with South African FICA regulations, we cannot release your bonus until your identity is verified. Please upload a clear copy of your Green ID Book, Smart ID Card, or Driver's License. Email documents to FICA@OperatorA.co.za or use the uploader in "My Account". Verification takes 24-48 hours.
 
 [MIN_DEPOSIT_FAIL]
 Ineligible - Low Deposit: Your last deposit was below the minimum threshold for this promotion. The 100% Match Bonus requires a minimum initial deposit of R10.00. Please top up your account to trigger the offer.
